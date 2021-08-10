@@ -1,0 +1,3 @@
+app:
+  exposePort: 8080
+  primary: true
